@@ -1,4 +1,3 @@
-# Carta[victorian_love_book_wendy.html](https://github.com/user-attachments/files/26150830/victorian_love_book_wendy.html)
 <!DOCTYPE html>
 <html lang="es">
 <head>
